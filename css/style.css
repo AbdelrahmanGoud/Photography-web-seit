@@ -15,6 +15,8 @@
   justify-content: center;
   align-items: center;
   flex-direction: column !important;
+  text-align: center;
+  width: 100vw;
 }
 .home-two
 {
@@ -26,6 +28,8 @@
   justify-content: center;
   align-items: center;
   flex-direction: column !important;
+  text-align: center;
+  width: 100vw;
 }
 .home-three
 {
@@ -37,7 +41,10 @@
   justify-content: center;
   align-items: center;
   flex-direction: column !important;
+  text-align: center;
+  width: 100vw;
 }
+
 .bout-crs
 {
   height: 50px;
@@ -47,6 +54,7 @@
   margin-top: 50vh;
   border: none !important;
   outline: none !important;
+  
 }
 .logo-nav
 {
@@ -109,7 +117,6 @@
 }
 .contant
 {
-  width: 60vw;
   color: white;
   text-align: center;
 }
