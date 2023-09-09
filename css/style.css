@@ -235,6 +235,7 @@ footer
     align-items:center;
     flex-direction: column;
     text-align: center ;
+    padding-top: 15px;
 
   } 
 }
@@ -314,6 +315,14 @@ footer
   {
      display: flex;
      
+  }
+  .sce-6 ol li
+  {
+    width: 8px !important;
+    height: 8px !important;
+    border-radius: 50% !important;
+    color: #1DA1F2 !important;
+
   }
   .crsol-point
   {
